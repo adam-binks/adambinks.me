@@ -14,7 +14,7 @@ If we can build tools to do this, then — unlike time-consuming training — th
 
 #### Transformations between representations
 
-To support this wider project, I'm interested in how representations (like diagrams and visualisations) can affect the way we think, and what kinds of discoveries we can make.
+To support this wider project, I'm interested in how representations (like diagrams and visualisations) can affect the way we think, and what kinds of structures we discover.
 
 Lots of great work has been done on the content of representations. But I think it's also worth looking at how we *transform*, or move between, representations. This is my current research focus.
 
