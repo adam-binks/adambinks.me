@@ -1,10 +1,10 @@
 title = "Adam Binks"
-baseURL = "https://adam-binks.github.io"
+baseURL = "https://adambinks.me"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""  # add your tracking id
+googleAnalytics = "G-K15E0YCM0F"  # add your tracking id
 
 [params]
   author = "Adam Binks"

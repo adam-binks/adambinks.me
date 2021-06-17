@@ -2,15 +2,17 @@
 title = "Adam Binks"
 +++
 
-{{< figure class="avatar" src="/adam photo.jpg" >}}
+{{< figure class="avatar" src="/adam.png" >}}
 
-I'm a PhD student at the University of St Andrews in [SACHI](https://sachi.cs.st-andrews.ac.uk/people/), supervised by [Alice Toniolo](https://at258.host.cs.st-andrews.ac.uk/) and [Miguel Nacenta](nacenta.com).
+I'm a PhD student at the University of St Andrews in [SACHI](https://sachi.cs.st-andrews.ac.uk/people/), supervised by [Alice Toniolo](https://at258.host.cs.st-andrews.ac.uk/) and [Miguel Nacenta](http://nacenta.com).
 
-### Improving group deliberation
+### Building tools to improve forecasting
 
-I'm interested in the potential of software tools to reduce the effects of cognitive biases in group deliberation.
+I'm interested in the potential of software tools to improve judgemental forecasting accuracy and group deliberation.
 
-If we can build tools to do this, then — unlike time-consuming training — that's a really scalable solution, that could help incrementally improve institutional decision-making.
+Often when we are making decisions, it's based on what we expect their consequences to be. So if we can improve our ability to predict future events, we can make better decisions.
+
+I'm exploring the idea that developing tools to improve forecasting may be an especially scalable way to improve institutional decision-making.
 
 #### Transformations between representations
 
@@ -18,7 +20,7 @@ To support this wider project, I'm interested in how representations (like diagr
 
 Lots of great work has been done on the content of representations. But I think it's also worth looking at how we *transform*, or move between, representations. This is my current research focus.
 
-I made [Write Reason](https://ab390.host.cs.st-andrews.ac.uk/), a tool to study transformations. It combines a text editor and a mapping interface.
+I made [Write Reason](https://adambinks.me/write-reason/editor), a tool to study transformations. It combines a text editor and a mapping interface.
 
 ## Outside the lab
 
