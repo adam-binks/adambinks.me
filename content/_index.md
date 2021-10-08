@@ -2,19 +2,19 @@
 title = "Adam Binks"
 +++
 
-{{< figure class="avatar" src="/adam.png" >}}
+{{< figure class="avatar" src="/adam.jpg" >}}
 
-I'm a PhD student at the University of St Andrews in [SACHI](https://sachi.cs.st-andrews.ac.uk/people/), supervised by [Alice Toniolo](https://at258.host.cs.st-andrews.ac.uk/) and [Miguel Nacenta](http://nacenta.com).
+I'm a PhD student at the [University of St Andrews](https://www.st-andrews.ac.uk/) in Computer Science, supervised by [Alice Toniolo](https://at258.host.cs.st-andrews.ac.uk/) and [Miguel Nacenta](http://nacenta.com), and part of [SACHI](https://sachi.cs.st-andrews.ac.uk/people/).
 
-### Building tools to improve forecasting
+## Building tools to improve forecasting
 
-I'm interested in the potential of software tools to improve judgemental forecasting accuracy and group deliberation.
+I'm interested in the potential of software tools to help people make more accurate probabilistic forecasts.
 
 Often when we are making decisions, it's based on what we expect their consequences to be. So if we can improve our ability to predict future events, we can make better decisions.
 
-I'm exploring the idea that developing tools to improve forecasting may be an especially scalable way to improve institutional decision-making.
+I'm exploring the idea that developing tools to improve forecasting may be an especially scalable way to [improve institutional decision-making](https://80000hours.org/problem-profiles/improving-institutional-decision-making/).
 
-#### Transformations between representations
+### Transformations between representations
 
 To support this wider project, I'm interested in how representations (like diagrams and visualisations) can affect the way we think, and what kinds of structures we discover.
 
@@ -24,6 +24,8 @@ I made [Write Reason](https://adambinks.me/write-reason/editor), a tool to study
 
 ## Outside the lab
 
+I'm a researcher at [Clearer Thinking](https://clearerthinking.org/). I build interactive tools and learning modules to help people improve their rationality and achieve their goals.
+
 I co-founded [One for the World: St Andrews](https://www.facebook.com/OneForTheWorldStAndrews). It's a community where we pledge to give a portion of our future income to *highly effective* charities, based on research from [GiveWell](https://www.givewell.org/).
 
-I'm also fascinated by the wider project of [Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/), which asks: what are the world's most pressing problems, and how can we do *as much as we can* to solve them? The [St Andrews group](https://www.facebook.com/EASaintAndrews) is one of my favourite communities.
+I'm also fascinated by the wider project of [Effective Altruism](https://www.effectivealtruism.org/). I help run [EA St Andrews](https://www.eastandrews.org/).
