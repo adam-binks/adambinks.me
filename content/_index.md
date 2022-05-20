@@ -6,7 +6,7 @@ title = "Adam Binks"
 
 I'm a PhD student at the [University of St Andrews](https://www.st-andrews.ac.uk/) in Computer Science, supervised by [Alice Toniolo](https://at258.host.cs.st-andrews.ac.uk/) and [Miguel Nacenta](http://nacenta.com), and part of [SACHI](https://sachi.cs.st-andrews.ac.uk/people/).
 
-## Building tools to improve forecasting
+### 🔭 Building tools for forecasting and thinking
 
 I'm interested in the potential of software tools to help people make more accurate probabilistic forecasts.
 
@@ -14,18 +14,27 @@ Often when we are making decisions, it's based on what we expect their consequen
 
 I'm exploring the idea that developing tools to improve forecasting may be an especially scalable way to [improve institutional decision-making](https://80000hours.org/problem-profiles/improving-institutional-decision-making/).
 
-### Transformations between representations
+I'm designing a tool for forecasters and thinkers to progressively externalise their mental models, fluidly move between and create formalisms, and share their thinking with the community.
 
-To support this wider project, I'm interested in how representations (like diagrams and visualisations) can affect the way we think, and what kinds of structures we discover.
+### 🗺️ Studying transformations between representations
 
-Lots of great work has been done on the content of representations. But I think it's also worth looking at how we *transform*, or move between, representations. This is my current research focus.
+[📜 Paper](https://doi.org/10.1016/j.ijhcs.2022.102851) // [✍️ Project page](https://adambinks.me/write-reason)
 
-I made [Write Reason](https://adambinks.me/write-reason/editor), a tool to study transformations. It combines a text editor and a mapping interface.
+To support the design of tools for forecasting and thinking, I'm interested in how representations (like diagrams and visualisations) can affect the way we think, and what kinds of structures we discover.
 
-## Outside the lab
+Lots of great work has been done on the content of representations. But I think it's also worth looking at how we *transform*, or move between, representations.
 
-I'm a researcher at [Clearer Thinking](https://clearerthinking.org/). I build interactive tools and learning modules to help people improve their rationality and achieve their goals.
+I made [Write Reason](https://adambinks.me/write-reason), a tool to study transformations. It combines a text editor and a mapping interface.
+
+
+### 🧠 Improving rationality
+
+I'm a researcher at [Clearer Thinking](https://clearerthinking.org/). I build interactive tools, run studies, and write articles, to help people improve their rationality and achieve their goals.
+
+I wrote about [what AI can do, what it can’t do, and what’s coming](https://www.clearerthinking.org/post/what-ai-can-do-what-it-can-t-do-and-what-s-coming).
+
+### 💡 Effective Altruism
+
+I'm fascinated by the project of [Effective Altruism](https://www.effectivealtruism.org/). I help run [EA St Andrews](https://www.eastandrews.org/).
 
 I co-founded [One for the World: St Andrews](https://www.facebook.com/OneForTheWorldStAndrews). It's a community where we pledge to give a portion of our future income to *highly effective* charities, based on research from [GiveWell](https://www.givewell.org/).
-
-I'm also fascinated by the wider project of [Effective Altruism](https://www.effectivealtruism.org/). I help run [EA St Andrews](https://www.eastandrews.org/).

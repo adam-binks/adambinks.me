@@ -25,6 +25,9 @@ math = false          # enable KaTeX (https://katex.org/) globally
         name = "LinkedIn"
         url = "https://linkedin.com/in/adam-binks/"
     [[menu.main]]
+        name = "Twitter"
+        url = "https://twitter.com/adambinks_"
+    [[menu.main]]
         name = "Write Reason"
         url = "https://adambinks.me/write-reason/"
 
