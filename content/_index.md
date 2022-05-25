@@ -33,6 +33,13 @@ I'm a researcher at [Clearer Thinking](https://clearerthinking.org/). I build in
 
 I wrote about [what AI can do, what it can’t do, and what’s coming](https://www.clearerthinking.org/post/what-ai-can-do-what-it-can-t-do-and-what-s-coming).
 
+
+### 🗻 Building a tool for goal tracking
+
+[🧗 Project page](https://adambinks.me/goal-tracker/)
+
+I'm also working on a tool for tracking your goals. The idea: track how your daily to-do list contributes to your ultimate life goals and intrinsic values.
+
 ### 💡 Effective Altruism
 
 I'm fascinated by the project of [Effective Altruism](https://www.effectivealtruism.org/). I help run [EA St Andrews](https://www.eastandrews.org/).
