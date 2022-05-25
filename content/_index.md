@@ -12,7 +12,7 @@ I'm interested in the potential of software tools to help people make more accur
 
 Often when we are making decisions, it's based on what we expect their consequences to be. So if we can improve our ability to predict future events, we can make better decisions.
 
-I'm exploring the idea that developing tools to improve forecasting may be an especially scalable way to [improve institutional decision-making](https://80000hours.org/problem-profiles/improving-institutional-decision-making/).
+I think better forecasting may help us [reduce global catastrophic risks](https://80000hours.org/career-reviews/forecasting/), so I'm exploring the potential of tools to improve the forecasting process.
 
 I'm designing a tool for forecasters and thinkers to progressively externalise their mental models, fluidly move between and create formalisms, and share their thinking with the community.
 
