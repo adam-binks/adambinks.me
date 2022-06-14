@@ -1,6 +1,6 @@
 title = "Adam Binks"
 baseURL = "https://adambinks.me"
-theme = "researcher"
+theme = ["hugo-redirect", "researcher"]
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
@@ -19,9 +19,6 @@ math = false          # enable KaTeX (https://katex.org/) globally
 
 [menu]
     [[menu.main]]
-        name = "GitHub"
-        url = "https://github.com/adam-binks"
-    [[menu.main]]
         name = "LinkedIn"
         url = "https://linkedin.com/in/adam-binks/"
     [[menu.main]]
@@ -30,6 +27,9 @@ math = false          # enable KaTeX (https://katex.org/) globally
     [[menu.main]]
         name = "Write Reason"
         url = "https://adambinks.me/write-reason/"
+    [[menu.main]]
+        name = "Map of Why"
+        url = "https://adambinks.me/map-of-why/"
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
